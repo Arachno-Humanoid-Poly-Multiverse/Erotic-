@@ -1,5 +1,4 @@
 from flask import Flask
-from AnonXMusic.__main__ import __main__
 
 # Initialize the Flask application
 app = Flask(__name__)
